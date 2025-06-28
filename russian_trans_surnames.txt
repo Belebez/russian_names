@@ -1,5 +1,3 @@
-petuhov
-petuhova
 ivanov
 ivanova
 kuznetsov
@@ -361,6 +359,7 @@ rusak
 borodin
 leonova
 tsvetkov
+petuhov
 petukhov
 stepanenko
 safronov
@@ -481,6 +480,7 @@ sokolovskij
 sazonov
 konstantinova
 davidovich
+petuhova
 petukhova
 korotkevich
 gromov
